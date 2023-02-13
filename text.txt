@@ -1,2 +1,4 @@
 Commit 1
 Alpha commit 123 (master)
+Commit 2 (new branch)
+Commit 3 (new branch)
